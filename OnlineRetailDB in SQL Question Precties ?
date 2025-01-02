@@ -1,0 +1,33 @@
+Create the Customers table ?
+Create the Products table
+Create the Categories table
+Create the Orders table
+Alter / Rename the Column Name
+Create the OrderItems table
+Insert sample data into Categories table
+Insert sample data into Products table
+-- Insert sample data into Customers table
+
+Insert sample data into Orders table
+Insert sample data into OrderItems table
+Retrieve all orders for a specific customer
+Find the total sales for each product
+Calculate the average order value
+List the top 5 customers by total spending
+Retrieve the most popular product category
+List all products that are out of stock, i.e. stock = 0
+Find customers who placed orders in the last 30 days
+Calculate the total number of orders placed each month
+Retrieve the details of the most recent order
+Find the average price of products in each category
+List customers who have never placed an order
+Retrieve the total quantity sold for each product
+Calculate the total revenue generated from each category
+Find the highest-priced product in each category
+ Retrieve orders with a total amount greater than a specific value (e.g., $500)
+ List products along with the number of orders they appear in
+ Find the top 3 most frequently ordered products
+ Calculate the total number of customers from each country
+ Retrieve the list of customers along with their total spending
+ List orders with more than a specified number of items (e.g., 5 items)
+ 
